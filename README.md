@@ -83,7 +83,13 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - Stock Market Basics
 - Cryptocurrency Insights
 
-## Integrating Tech, Fitness, and Finance
+### Mindset Tips
+
+### Other People Who have inspired me
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook![image](https://github.com/jphamgithub/a_path_to_everything/assets/84345845/bb7a41df-9410-49e6-9a1a-6d3dc3f5cd1f)
+
+## Random
 - Balancing Life Aspects
 - Tools that Combine Multiple Areas
 - Personal Experiences and Advice
