@@ -5,16 +5,51 @@ The best advice is the advice from 1,000+ people, sprinkled with common sense, a
 
 Welcome to my repository where I share my personal insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
 
-The worst thing in life is having no money, no friends, no family and no purpose. It also kind of sucks to have just one of those things. 
+The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. 
 
 But again, combine this with 999 other people's advice and sprinkle in your own life experience. Fork this. Make a merge request. Add more!
 
 ## Table of Contents
-- [Understanding Technology, it's history, and where we are at](#understanding-tech)
+- [Introduction](#a_path_to_everything)
+- [Mindset Tips](#mindset-tips)
+- [Understanding Tech](#understanding-tech)
+  - [Learning Resources](#learning-resources)
+  - [Building Your Network](#building-your-network)
 - [Apps for Efficiency](#apps-for-efficiency)
+  - [Speechify](#speechify)
+  - [Audible](#audible)
+  - [Blinkist](#blinkist)
+  - [Todoist](#todoist)
+  - [Grammarly](#grammarly)
+  - [GitHub](#github)
 - [Fitness Advice](#fitness-advice)
+  - [Workout Routines](#workout-routines)
+  - [Nutrition and Diet](#nutrition-and-diet)
 - [Finance Tips](#finance-tips)
+  - [Budgeting](#budgeting)
+  - [Investment Strategies](#investment-strategies)
+- [Inspirational Resources](#inspirational-resources)
 - [Integrating Tech, Fitness, and Finance](#integrating-tech-fitness-and-finance)
+- [Contributing](#contributing)
+
+## Mindset Tips
+- You can do this. I grew up on welfare, no parents, and a lot of imposter syndrome. Hard work truly does beat natural talent. I've had a very non linear career.
+- I haven't "made it." I am still on the journey, but I am sharing tips below that have taken me from a scarcity mindset to a growth mindset.
+- Opportunity is out there. You need to take baby steps towards your dreams every day. With proper tools and technology these days. It has never been easier to make a daily dent in your goals.
+
+Do you need a more formal version of this advice?
+
+- **Embrace Your Journey**: Remember, everyone's path is unique. My journey, from welfare to overcoming imposter syndrome, proves that resilience and hard work can surpass inherent talent.
+- **Celebrate Continuous Growth**: Success isn't a destination but a journey. I'm still on my path, sharing insights that helped me transition from a scarcity mindset to embracing growth and possibilities.
+- **Take Daily Steps Towards Dreams**: In today's world, brimming with tools and technology, it's easier than ever to make small yet significant strides towards your goals every day. Embrace these resources and let them propel you forward.
+
+Long story short, drink a tall glass of figure it the *** out. You have to want whatever your goal is, but I get it! It's lonely out there trying for something your friends might look down on. People don't always encourage you when you're doing well. 
+
+Find new friends. Care less about what others think, and work towards what you know is right for you. And if you don't know what you want emulate those that inspire you and take baby steps in the right direction.
+
+You don't know what career you want, but you know 80% of jobs involve computers. Learn about computers so you can either draw art on them or code on them. 
+
+You don't know where you want to live, but you know it's not where you are. Go visit a place, any place. Learn and experience more. I used to be deadly afraid of a 20 minute drive down the road. Not actually afraid of driving, but how inefficient it might be to go to X place when I could stick with my old routine that got X thing done faster. Try something new. It could lead to an overall better life.
 
 ## Understanding Tech
 ### Learning Resources
@@ -77,17 +112,33 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 ## Finance Tips
 ### Budgeting
 - Budgeting Methods
-- Tools for Budget Management
+  - Build a Lifetime budget. Yes you think I'm crazy, but I'm not.
+      - Link to my lifetime budget calculator: <Pending>
+      - There are so many decisions about how you plan to live your life, when you plan to retire, how much income you'd like to have. These assumptions are pivotal in terms of making smart decisions today.
+      - It seems like a daunting task, but actually saves your hundreds if not years of working time.
+      - It allows for things life work hiatuses, i.e. you planned your life and aim to save 20K per year. You can save 40K one year and take an entire year off!
+      - <More details pending>
+- Bloggers that changed my financial life
+  - I can't possibly write as good of information as the below bloggers who changed my life:
+      - https://jlcollinsnh.com/
+          - If you read no other article read this mofo: https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/
+      -   https://www.mrmoneymustache.com/
+      -   https://www.gocurrycracker.com/
+      -   https://www.madfientist.com/
+      -   https://www.choosefi.com/
+          - I love their podcast the most! They are the ones that truly changed my life. They made me discover all the above!
 
 ### Investment Strategies
 - Stock Market Basics
-- Cryptocurrency Insights
+   - Buy simple index funds that's it!
+   - I'll give a little more color later.
 
-### Mindset Tips
+### Traveling
 
 ### Other People Who have inspired me
 
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook![image](https://github.com/jphamgithub/a_path_to_everything/assets/84345845/bb7a41df-9410-49e6-9a1a-6d3dc3f5cd1f)
+- https://github.com/jordan-cutler/path-to-senior-engineer-handbook![image](https://github.com/jphamgithub/a_path_to_everything/assets/84345845/bb7a41df-9410-49e6-9a1a-6d3dc3f5cd1f)
+ - This post inspired mine! I thought why not give the code, the money tips, etc. What's a career without proper money management!
 
 ## Random
 - Balancing Life Aspects
