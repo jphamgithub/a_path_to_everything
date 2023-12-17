@@ -3,7 +3,7 @@ I know you can read. You're here, but I've been at the top of long blocks of tex
 
 Change your perspective. Reading is hard, I get it. Firstly, stop. Go get Speechify and have it read this to you. On 2X or even 3X speed.
 
-But really, I have been there. People write massive posts and sometimes these things get so long they get called called books. Reading is hard, but not reading is going to be a lot more pain in the long term. The alternative is the writer just waits around and repeats themselves to hundreds of people.
+But really, I have been there. People write massive posts and sometimes these things get so long they get called books. Reading is hard, but not reading is going to be a lot more pain in the long term. The alternative is the writer just waits around and repeats themselves to hundreds of people.
 
 Respect the author. Read. Learn. Writers put thousands of hours of thought into the things they write. Use technology Speechify/audible/blinkist, etc., and consume those thoughts. One day you'll get the chance to ask an insightful question instead of something that's been answered a million times before in the literature (cuz you read now!)
 
