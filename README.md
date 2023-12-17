@@ -149,14 +149,14 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
       -   https://www.gocurrycracker.com/
       -   https://www.madfientist.com/
       -   https://www.choosefi.com/
-          - I love their podcast the most! They are the ones that truly changed my life. They made me discover all the above!
+          - 
 ### Bloggers That Changed My Financial Life
-    - I can't possibly write as good of information as the below bloggers who changed my life:
-        - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
-        - **[Mr. Money Mustache](https://www.mrmoneymustache.com/)**: Provides actionable advice on reducing expenses and living a frugal yet fulfilling life.
-        - **[Go Curry Cracker](https://www.gocurrycracker.com/)**: Offers detailed insights on tax optimization and retirement planning strategies.
-        - **[Mad Fientist](https://www.madfientist.com/)**: Great resource for understanding advanced financial independence tactics. How to avoid taxes, minimize their impact, etc. He has the best flow charts to understand things like the 
-        - **[ChooseFI](https://www.choosefi.com/)**: Their podcast offers diverse perspectives on achieving financial independence.
+  - I can't possibly write as good of information as the below bloggers who changed my life:
+  - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
+  - **[Mr. Money Mustache](https://www.mrmoneymustache.com/)**: Provides actionable advice on reducing expenses and living a frugal yet fulfilling life.
+  - **[Go Curry Cracker](https://www.gocurrycracker.com/)**: Offers detailed insights on tax optimization and retirement planning strategies.
+  - **[Mad Fientist](https://www.madfientist.com/)**: Great resource for understanding advanced financial independence tactics. How to avoid taxes, minimize their impact, etc. He has the best flow charts to understand things like the 
+  - **[ChooseFI](https://www.choosefi.com/)**: I love their podcast the most! They are the ones that truly changed my life. They made me discover all the above authors/bloggers.
 
 ### Investment Strategies
 - Stock Market Basics
