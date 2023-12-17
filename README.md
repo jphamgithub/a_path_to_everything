@@ -20,7 +20,7 @@ The best advice is advice from 1,000+ people, sprinkled with common sense, and y
 
 Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
 
-The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. 
+The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. So be balanced and do it all. One baby step at a time.
 
 But again, combine this with 999 other people's advice and sprinkle in your own life experience. Fork this. Make a merge request. Add more!
 
