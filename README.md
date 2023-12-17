@@ -160,8 +160,9 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 
 ### Other People Who have inspired me
 
-- https://github.com/jordan-cutler/path-to-senior-engineer-handbook![image](https://github.com/jphamgithub/a_path_to_everything/assets/84345845/bb7a41df-9410-49e6-9a1a-6d3dc3f5cd1f)
- - This post inspired mine! I thought why not give the code, the money tips, etc. What's a career without proper money management!
+- https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+ - This post inspired mine! I thought why not give the code, the money tips, etc. What's a career without proper money management?!
+ - I also thought why not use the amazing power of git and versioning to keep building on these tips over time. Hope people fork this/ merge request to it, etc. It is a living document.
 
 ## Random
 - Balancing Life Aspects
