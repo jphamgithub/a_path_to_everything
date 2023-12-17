@@ -1,9 +1,24 @@
+# How to read
+I know you can read. You're here, but I've been at the top of long blocks of text before. I never thought I'd write one.
+
+Change your perspective. Reading is hard, I get it. Firstly, stop. Go get Speechify and have it read this to you. On 2X or even 3X speed.
+
+But really, I have been there. People write massive posts and sometimes these things are called books. The alternative is the writer just waits around and repeats themselves to hundreds of people.
+
+Respect the author. Read. Learn. Writers put thousands of hours of thought into the things they write. Use technology Speechify/audible/blinkist, etc., and consume those thoughts. One day you'll get the chance to ask an insightful question instead of something that's been answered a million times before in the literature (cuz you read now!)
+
+So please be a reader. You do not have to read this. I wrote this just to dump my life advice. If yuo skim, just a bit further you'll see I encourage you to read many people. Listen to many people. Form your own opinions and go have an amazing life.
+
+"Smart people learn from their mistakes. Geniuses learn from other's mistakes. Reading is the most efficient portal to genius." -Possibly me/ but maybe someone else! I don't know who said it first!
+
+Now on to reading...
+
 # a_path_to_everything
-The best advice is the advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
+The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
 
 # Life Advice for Tech, Fitness, Finance, and more.
 
-Welcome to my repository where I share my personal insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
+Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
 
 The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. 
 
