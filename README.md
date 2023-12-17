@@ -180,7 +180,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
   - Isn't it cold outside?! People will ask! Jacket's haven't been invented yet!
   - Jokes aside.
       - Safety! People have died on bikes. I will say this. You have the option to get off roads on dangerous parts and be a pedestrian. In 5 years, I never put myself near large vehicles and I avoided narrow roads when conditions were not safe. I never once felt unsafe. 
-  - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in.
+  - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in. I understand it is not possible for most people. I am currently on a one year Army mobilization where I have to drive to work daily. In the past I had a 1.5 hour commute. Both times I just found time to walk at lunch. It takes effort to get outside and get your steps. But I have always found I'm more productive if I can be disciplined to get up and get sunlight. Do what you can, but if you have the chance to bike to work. Take it.
 
 ## Finance Tips
 
