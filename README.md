@@ -133,6 +133,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
   - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in.
 
 ## Finance Tips
+
 ### Budgeting
 - Budgeting Methods
   - Build a Lifetime budget. Yes you think I'm crazy, but I'm not.
@@ -141,15 +142,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
       - It seems like a daunting task, but actually saves your hundreds if not years of working time.
       - It allows for things life work hiatuses, i.e. you planned your life and aim to save 20K per year. You can save 40K one year and take an entire year off!
       - <More details pending>
-- Bloggers that changed my financial life
-  - I can't possibly write as good of information as the below bloggers who changed my life:
-      - https://jlcollinsnh.com/
-          - If you read no other article read this mofo: https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/
-      -   https://www.mrmoneymustache.com/
-      -   https://www.gocurrycracker.com/
-      -   https://www.madfientist.com/
-      -   https://www.choosefi.com/
-          - 
+
 ### Bloggers That Changed My Financial Life
   - I can't possibly write as good of information as the below bloggers who changed my life:
   - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
