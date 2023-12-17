@@ -172,7 +172,11 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
               https://www.tiktok.com/@jacobhoweird/video/7038057087791811845?is_copy_url=1&is_from_webapp=v1
 
               ```
-          
+          - Will Tennyson: https://www.youtube.com/watch?v=0QXaAQMwfBI
+            - Once you learn what you eat, the differences of macros in ground chicken and chicken breast or you learn how damn low calorie shrimp is... it's time to strength train.
+            - You should watch Will Tennyson's video on survival guide at the gym: "Beginner's Gym Survival Guide"
+            - Watch it, enjoy his jokes, and if it's confusing. Consider a coach. Accountability is the only thing that will... keep you accountable.
+           
 - Biking to work
   - I biked to work for 5 years in Boston and it was the best years.
   - This article kicked my ass to finally do it: https://semi-rad.com/2011/06/9-reasons-why-you-should-never-bike-to-work/
