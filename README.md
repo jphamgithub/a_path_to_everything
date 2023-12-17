@@ -109,6 +109,13 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - Healthy Eating Tips
 - Recommended Apps for Diet Tracking
 - Biking to work
+  - I biked to work for 5 years in Boston and it was the best years.
+  - This article kicked my ass to finally do it: https://semi-rad.com/2011/06/9-reasons-why-you-should-never-bike-to-work/
+  - God forbid, you give up the 45 minutes of driving and visits to gym after work! How could you possibly avoid getting wet!
+  - Isn't it cold outside?! People will ask! Jacket's haven't been invented yet!
+  - Jokes aside.
+      - Safety! People have died on bikes. I will say this. You have the option to get off roads on dangerous parts and be a pedestrian. In 5 years, I never put myself near large vehicles and I avoided narrow roads when conditions were not safe. I never once felt unsafe. 
+  - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in.
 
 ## Finance Tips
 ### Budgeting
