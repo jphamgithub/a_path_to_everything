@@ -121,8 +121,58 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - Routine 2
 
 ### Nutrition and Diet
-- Healthy Eating Tips
+- Getting "fit". A fit mindset
+    - I have been up and down with my weight in my life. Sometimes I had abs, other times I was very chunky with a nice round Asian face. 
 - Recommended Apps for Diet Tracking
+    - What is measured is managed. Learn to use myfitnesspal. Watch youtube videos on tips.
+    - It is a lot easier to slow down and measure what you eat for a month or two and spend 5 minutes on data entry than HOURS on the treadmill.
+    - You cannot outwork a bad diet.
+    - Forget signing up for the gym.
+    - Starting out, don't lift, don't run. Just go read food labels at the grocery store. Make 3-4 visit to grocery store per week for a few months.
+    - Learn about food, enter the 40 most common things you eat in to myfitness pal. Learn the nuances of macros.
+    - Learn that protein, fat, and carbs should simply be Energy Source 1, 2 and 3. Fat isn't whats making you fat. Neither is carbs or protein.
+    - Over-eating, a bad relationship with food, and lack of understanding portions is what's killing you.
+    - It will be hard. Running Daily WILL work short term.
+    - Strength training is AMAZING.
+    - But if you don't fix your relationship with food, you'll never figure it out.
+    - Replacing one extreme (over-eating) with another extreme (over-working out) isn't the solution.
+    - Search for balance.
+- "Influencers" get a bad wrap. The word is kind of a joke, but some influencers rock. I haven't vetted EVERYTHING the below people post, but I can say at least a chunk of what they say is amazing.
+    - People who say all the above better than I ever could:
+        - Darren Liu: https://www.youtube.com/@Darrenliufitness
+            - He emphasizes the simplicity of mobility 3-4 times a week for 10 minutes, plus strength training 4 times a week. He doesn't advocate or demonize running, but shows you how 5-10K steps a day and learning about food is all you need to be fit and healthy. Everything else is for personal victory if you want it. i.e. Marathon running, etc. I have done 2 marathons and a dozen half marathons. I have always done them from a negative place of "wanting to lose weight", and I think that is wrong. Just do it for fun. Learn balance in your every day life with food tips said prior.
+        - Liam from the "theplantslant": https://www.tiktok.com/@theplantslant
+            - I just love all the REAL food this guy posts with food you've seen before in real life. Super practical tips like Costco foods well balanced in protein/carbs/fat, etc to amazing cereal options and well balanced protein bars to just general food tips. He comes off kind of like an *** at first, but I learned to love his stuff.
+        - Jacob Howeird: https://www.tiktok.com/@jacobhoweird
+            - Sometimes you just want to eat a MOUNTAIN of food with low calories. This guy does it. Love his stuff.
+            - Shout out to my favorite post of his with an amazing huge snack I have often:
+              ```
+              Pumpkin Pie
+              170 grams of Greek yogurt fat free
+              Libby's 100% pure pumpkin (122 grams)
+              1/2 tablespoon Pumpkin Pie Spice
+              2 packets of Stevia
+              
+              Weigh on food scale, Mix it all together, done.
+              
+              140 calories, 19 grams protein, 0.5 fat, 7 grams carbs
+              
+              
+              Pudding Ice cream
+              1.5 cups (12 oz) Fair life white regular Milk 13 g protein
+              Chocolate Jello Sugar Free (3 servings 30g of sugar free chocolate pudding mix)
+              
+              Blend, Weight on food scale, Chill in fridge 5 minutes, eat
+              
+              150 calories, 19.5 g protein, 12.5 g carbs, 0 fat
+              
+              
+              @jacobhoweird on tik tok
+              
+              https://www.tiktok.com/@jacobhoweird/video/7038057087791811845?is_copy_url=1&is_from_webapp=v1
+
+              ```
+          
 - Biking to work
   - I biked to work for 5 years in Boston and it was the best years.
   - This article kicked my ass to finally do it: https://semi-rad.com/2011/06/9-reasons-why-you-should-never-bike-to-work/
