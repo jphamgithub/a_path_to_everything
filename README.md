@@ -7,7 +7,7 @@ But really, I have been there. People write massive posts and sometimes these th
 
 Respect the author. Read. Learn. Writers put thousands of hours of thought into the things they write. Use technology Speechify/audible/blinkist, etc., and consume those thoughts. One day you'll get the chance to ask an insightful question instead of something that's been answered a million times before in the literature (cuz you read now!)
 
-So please be a reader. You do not have to read this. I wrote this just to dump my life advice. If yuo skim, just a bit further you'll see I encourage you to read many people. Listen to many people. Form your own opinions and go have an amazing life.
+So please be a reader. You do not have to read this. I wrote this just to dump my life advice. If you skim, just a bit further you'll see I encourage you to read many people. Listen to many people. Form your own opinions and go have an amazing life.
 
 "Smart people learn from their mistakes. Geniuses learn from other's mistakes. Reading is the most efficient portal to genius." -Possibly me/ but maybe someone else! I don't know who said it first!
 
