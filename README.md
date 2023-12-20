@@ -95,11 +95,23 @@ You don't know where you want to live, but you know it's not where you are. Go v
 
 ## Understanding Tech
 ### Learning Resources
+- Until I find more time to add my own spin. I will link the inspiration for this "a path to everything":
+     - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - Online Courses
+     - Quick shout out to https://www.youtube.com/@NetworkChuck
+          - While there are many great youtubers. He is my number 1.
+          - He makes his "You need to study RIGHT NOW." slogan stick and felt. In 16 minutes and 41 seconds, this man will have you building your own website: https://www.youtube.com/watch?v=gwUz3E9AW0w&t=403s
+          - IN very little time he'll have you doing
+               - Python: https://www.youtube.com/watch?v=mRMmlo_Uqcs&list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp
+               - Ansible, Linux, Bash, etc. Explore his page and find more.
 - Books
+     - Download each of the PDF's for free, add to speechify and binge this:
+        - https://pages.cs.wisc.edu/~remzi/OSTEP/
+           - Operating Systems: Three Easy Pieces
 - Communities and Forums
+  - Coming soon
 
-### Building Your Network
+### Building Your Network (coming soon!)
 - Social Media Platforms
 - Networking Events
 - Mentorship Opportunities
