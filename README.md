@@ -73,6 +73,9 @@ But again, combine this with 999 other people's advice and sprinkle in your own 
 12. [Random](#random)
 13. [TV That Changed My Life](#tv-that-changed-my-life)
 
+OK you're about to really dive in:
+
+Get you mind right --> Get your money right --> Get fitness in line --> And lots more
 
 ## Mindset Tips
 - You can do this. I grew up on welfare, no parents, and a lot of imposter syndrome. Hard work truly does beat natural talent. I've had a very non linear career.
