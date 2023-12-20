@@ -115,12 +115,34 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - App 3
 - App 4
 
-## Fitness Advice
-### Workout Routines
-- Routine 1
-- Routine 2
+## Finance Tips
 
+### Budgeting
+- Budgeting Methods
+  - Build a Lifetime budget. Yes you think I'm crazy, but I'm not.
+      - Link to my lifetime budget calculator: <Pending>
+      - There are so many decisions about how you plan to live your life, when you plan to retire, how much income you'd like to have. These assumptions are pivotal in terms of making smart decisions today.
+      - It seems like a daunting task, but actually saves your hundreds if not years of working time.
+      - It allows for things life work hiatuses, i.e. you planned your life and aim to save 20K per year. You can save 40K one year and take an entire year off!
+      - <More details pending>
+
+### Bloggers That Changed My Financial Life
+  - I can't possibly write as good of information as the below bloggers who changed my life:
+  - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
+  - **[Mr. Money Mustache](https://www.mrmoneymustache.com/)**: Provides actionable advice on reducing expenses and living a frugal yet fulfilling life.
+  - **[Go Curry Cracker](https://www.gocurrycracker.com/)**: Offers detailed insights on tax optimization and retirement planning strategies.
+  - **[Mad Fientist](https://www.madfientist.com/)**: Great resource for understanding advanced financial independence tactics. How to avoid taxes, minimize their impact, etc. He has the best flow charts to understand things like Roth Conversion Ladder, etc=: https://www.madfientist.com/how-to-access-retirement-funds-early/
+  - **[Trip of a Lifestyle](https://www.tripofalifestyle.com/)**: They are the defintion of power couple to me. They had super normal attainable incomes and retired at 30. They have such amazing life hacks on how to take "work hiatuses." 
+  - **[ChooseFI](https://www.choosefi.com/)**: I love their podcast the most! They are the ones that truly changed my life. They made me discover all the above authors/bloggers.
+
+### Investment Strategies
+- Stock Market Basics
+   - Buy simple index funds that's it!
+   - I'll give a little more color later.
+
+## Fitness Advice
 ### Nutrition and Diet
+- Nutrition is first up. If you don't get to the lifting part, good. I'd rather you digest this info on food if nothing else.
 - Getting "fit". A fit mindset
     - I have been up and down with my weight in my life. Sometimes I had abs, other times I was very chunky with a nice round Asian face. 
 - Recommended Apps for Diet Tracking
@@ -176,6 +198,11 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
             - Once you learn what you eat, the differences of macros in ground chicken and chicken breast or you learn how damn low calorie shrimp is... it's time to strength train.
             - You should watch Will Tennyson's video on survival guide at the gym: "Beginner's Gym Survival Guide"
             - Watch it, enjoy his jokes, and if it's confusing. Consider a coach. Accountability is the only thing that will... keep you accountable.
+
+### Workout Routines
+- OK so you're busy as F. Right? And you're kind of lazy? Well, I've done all the workouts imaginable. I did F45, Orange Theory. I did Army Basic training lol. I did a handful of marathons, and I did probably a half marathon every month for two years at one point. I ran 4-10 miles per day for many years. I did a lot of extremes. I wasn't balanced. The fitness industry is overwhelming. Absolutely overwhelming.
+- I think you should keep it simple. Walk 10,000 steps per day. Lift 3-4 times a week. The way I think of it is this. You're busy.
+- Routine 2
            
 - Biking to work
   - I biked to work for 5 years in Boston and it was the best years.
@@ -186,30 +213,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
       - Safety! People have died on bikes. I will say this. You have the option to get off roads on dangerous parts and be a pedestrian. In 5 years, I never put myself near large vehicles and I avoided narrow roads when conditions were not safe. I never once felt unsafe. 
   - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in. I understand it is not possible for most people. I am currently on a one year Army mobilization where I have to drive to work daily. In the past I had a 1.5 hour commute. Both times I just found time to walk at lunch. It takes effort to get outside and get your steps. But I have always found I'm more productive if I can be disciplined to get up and get sunlight. Do what you can, but if you have the chance to bike to work. Take it.
 
-## Finance Tips
 
-### Budgeting
-- Budgeting Methods
-  - Build a Lifetime budget. Yes you think I'm crazy, but I'm not.
-      - Link to my lifetime budget calculator: <Pending>
-      - There are so many decisions about how you plan to live your life, when you plan to retire, how much income you'd like to have. These assumptions are pivotal in terms of making smart decisions today.
-      - It seems like a daunting task, but actually saves your hundreds if not years of working time.
-      - It allows for things life work hiatuses, i.e. you planned your life and aim to save 20K per year. You can save 40K one year and take an entire year off!
-      - <More details pending>
-
-### Bloggers That Changed My Financial Life
-  - I can't possibly write as good of information as the below bloggers who changed my life:
-  - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
-  - **[Mr. Money Mustache](https://www.mrmoneymustache.com/)**: Provides actionable advice on reducing expenses and living a frugal yet fulfilling life.
-  - **[Go Curry Cracker](https://www.gocurrycracker.com/)**: Offers detailed insights on tax optimization and retirement planning strategies.
-  - **[Mad Fientist](https://www.madfientist.com/)**: Great resource for understanding advanced financial independence tactics. How to avoid taxes, minimize their impact, etc. He has the best flow charts to understand things like Roth Conversion Ladder, etc=: https://www.madfientist.com/how-to-access-retirement-funds-early/
-  - **[Trip of a Lifestyle](https://www.tripofalifestyle.com/)**: They are the defintion of power couple to me. They had super normal attainable incomes and retired at 30. They have such amazing life hacks on how to take "work hiatuses." 
-  - **[ChooseFI](https://www.choosefi.com/)**: I love their podcast the most! They are the ones that truly changed my life. They made me discover all the above authors/bloggers.
-
-### Investment Strategies
-- Stock Market Basics
-   - Buy simple index funds that's it!
-   - I'll give a little more color later.
 
 ### Traveling
 
