@@ -249,9 +249,13 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 
 ## Random
 - Balancing Life Aspects
+  - ```Will fill out eventualy```
 - Tools that Combine Multiple Areas
+  - ```Will fill out eventualy```
 - Personal Experiences and Advice
+  - ```Will fill out eventualy```
 - TV That Changed my life. TV = stories. Stories drive everything. So let's take a look at what stories might inspire you:
+  - ```Will fill out eventualy```
 
 ---
 
