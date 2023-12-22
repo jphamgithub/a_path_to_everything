@@ -53,6 +53,7 @@ But again, combine this with 999 other people's advice and sprinkle in your own 
 5. [Understanding Tech](#understanding-tech-detail)
    - 5.1 [Learning Resources](#learning-resources-detail)
    - 5.2 [Building Your Network](#building-your-network-detail)
+   - 5.3 [No Shame In Using Tech To Your Benefit](#no-shame-in-using-tech-to-your-benefit)
 6. [Apps for Efficiency](#apps-for-efficiency-detail)
    - 6.1 [Speechify](#speechify-detail)
    - 6.2 [Audible](#audible-detail)
@@ -70,8 +71,12 @@ But again, combine this with 999 other people's advice and sprinkle in your own 
 9. [Workout Routines](#workout-routines-detail)
 10. [Traveling](#traveling)
 11. [Other People Who Have Inspired Me](#other-people-who-have-inspired-me)
-12. [Random](#random)
-13. [TV That Changed My Life](#tv-that-changed-my-life)
+12. [Books That Have Inspired Me](#books-that-have-inspired-me)
+   - 12.1 [Man's Search For Meaning](#mans-search-for-meaning)
+   - 12.2 [The Road Less Travelled](#the-road-less-travelled)
+13. [Random](#random)
+14. [TV That Changed My Life](#tv-that-changed-my-life)
+15. [The Little Things](#the-little-things)
 
 OK you're about to really dive in:
 
@@ -118,6 +123,14 @@ You don't know where you want to live, but you know it's not where you are. Go v
 - Social Media Platforms
 - Networking Events
 - Mentorship Opportunities
+
+### No Shame In Using Tech To Your Benefit
+- There was a point in time where everything was just paper and pen. Paper is inneficient when it comes to the many needs of our world. We evolved from writing in paper, to a locally saved word processor, to a internet saved and shared document, to a repository of text that can be worked on by many individuals at once.
+- Ironically, as we have gone further deeper into tools of ease, we have over complicated our lives. How many of the extra tools in MS Word have you used? How often have you shared a Google Doc with one a colleague? The more features and more usable, the software becomes less usable and the features are ignored. 
+- There is no shame in using techonlogy to your benefit. However, consider if the technology is truly working for you.
+- In a world of complications, the simplicity of a easily shared, easily written, easily accessible document creates the true ease of mind that the many features of all the other word processors promised us.
+- When the complicated becomes understood and easily used; when the often used features are thoroughly understood; then the features that matter come to light.
+- Github is what many need but fail to pursue.   
 
 ## Apps for Efficiency
 In today's fast-paced world, efficiency is key. Here are some incredible apps that can significantly boost your productivity and time management skills.
@@ -264,6 +277,18 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
  - This post inspired mine! I thought why not give the code, the money tips, etc. What's a career without proper money management?!
  - I also thought why not use the amazing power of git and versioning to keep building on these tips over time. Hope people fork this/ merge request to it, etc. It is a living document.
+-  https://github.com/howtri
+ - They said never meet your heroes. The day I met Tristan, my life changed.
+
+## Books That Have Inspired me
+
+   ### Man's Search For Meaning
+   - Written by Viktor Frankl, a holocaust survivor and psychiatrist.
+      - Frankl describes that a person provided with a true purpose can withstand any adversity. He provides some interesting cases of his time as a psychiatrist post-holocaust where a well-tailored perspective can guide us towards the solutions that we need.
+   
+   ### The Road Less Traveled
+   - Written by Scott Peck.
+      - Peck details the woes of many individuals that he encountered as he practiced therapy. He details that life is, indeed, difficult and provides understanding as to why some may do what they do. It details, through examples and his experience, how one can face the many hardships of life.
 
 ## Random
 - Balancing Life Aspects
@@ -271,6 +296,15 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - Personal Experiences and Advice
 - TV That Changed my life. TV = stories. Stories drive everything. So let's take a look at what stories might inspire you:
 
+## The Little Things
+   - With a high speed life, high speed cars, and high speed internet, we forget the little things. Little things bring joy and happiness, specially because they tend to be simple and, sometimes, easily missed. My current little thing is signature blocks at the end of emails. Some people put a little picture, some a quote. Personally, I have been considering putting in a little ascii design in my own email signature.
+   _______________
+  |   |,"    `.|   |
+  |   /  SONY  \   |
+  |O _\   />   /_  |
+  |_(_)'.____.'(_)_|
+  [___|[=]__[=]|___]
+  Why not? Why not have a little happiness at the end of each email and the beginning of my next meeting with my boss on the topic of professionalism?
 ---
 
 Feel free to contribute or suggest more topics!
