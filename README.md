@@ -225,6 +225,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
     - 3 Workout C (PULL): https://hevy.com/routine/GJXTD9Gm0hs
     - 4 Workout D (FULL BODY): https://hevy.com/routine/ptcoABMhMrl
 - Shoutout to hevy app for being friendly on desktop and mobile. That way you can copy paste workouts in to it on PC which is much easier than on phone.
+- You can also use any one's linked workout and add it your own folder! This is such a time saver.
 - Then track what you do at gym instead of being like everyone else just guessing what to do!
 - But remember the whole food first thing from above!
            
