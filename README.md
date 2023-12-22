@@ -88,15 +88,15 @@ I intentionally want you to go read mindset again. You're gonna question yoursel
         - https://pages.cs.wisc.edu/~remzi/OSTEP/
            - Operating Systems: Three Easy Pieces
 - Communities and Forums
-  - ```Will fill out eventualy```
+  - ```Will fill out eventually```
 
 ### Building Your Network 
 - Social Media Platforms
- - ```Will fill out eventualy```
+ - ```Will fill out eventually```
 - Networking Events
- - ```Will fill out eventualy```
+ - ```Will fill out eventually```
 - Mentorship Opportunities
- - ```Will fill out eventualy```
+ - ```Will fill out eventually```
 
 ## Apps for Efficiency
 In today's fast-paced world, efficiency is key. Here are some incredible apps that can significantly boost your productivity and time management skills.
@@ -219,11 +219,11 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 - OK so you're busy as F. Right? And you're kind of lazy? Well, I've done all the workouts imaginable. I did F45, Orange Theory. I did Army Basic training lol. I did a handful of marathons, and I did probably a half marathon every month for two years at one point. I ran 4-10 miles per day for many years. I did a lot of extremes. I wasn't balanced. The fitness industry is overwhelming. Absolutely overwhelming.
 - I think you should keep it simple. Walk 10,000 steps per day. Lift 3-4 times a week. The way I think of it is this. You're busy. You want something to keep you generally healthy and hit your other goals.
 - Just 10K steps and 3-4 lifts. You will slowly lose weight, reach balance, and over time build up a little bit more muscle for functionality.
-      - Other than 10K steps per day here are my exact routines:
-           - 1 - Workout A (PUSH): https://hevy.com/routine/0U3ccvfaNIj
-           - 2 - Workout B (LEGS): https://hevy.com/routine/z03qj0bpemO
-           - 3 - Workout C (PULL): https://hevy.com/routine/GJXTD9Gm0hs
-           - 4 - Workout D (FULL BODY): https://hevy.com/routine/ptcoABMhMrl
+  - Other than 10K steps per day here are my exact routines:
+    - 1 Workout A (PUSH): https://hevy.com/routine/0U3ccvfaNIj
+    - 2 Workout B (LEGS): https://hevy.com/routine/z03qj0bpemO
+    - 3 Workout C (PULL): https://hevy.com/routine/GJXTD9Gm0hs
+    - 4 Workout D (FULL BODY): https://hevy.com/routine/ptcoABMhMrl
 - Shoutout to hevy app for being friendly on desktop and mobile. That way you can copy paste workouts in to it on PC which is much easier than on phone.
 - Then track what you do at gym instead of being like everyone else just guessing what to do!
 - But remember the whole food first thing from above!
@@ -239,7 +239,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 
 ### Traveling
 
-```Will fill out eventualy```
+```Will fill out eventually```
 
 ### Other People Who have inspired me
 
@@ -249,13 +249,13 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 
 ## Random
 - Balancing Life Aspects
-  - ```Will fill out eventualy```
+  - ```Will fill out eventually```
 - Tools that Combine Multiple Areas
-  - ```Will fill out eventualy```
+  - ```Will fill out eventually```
 - Personal Experiences and Advice
-  - ```Will fill out eventualy```
+  - ```Will fill out eventually```
 - TV That Changed my life. TV = stories. Stories drive everything. So let's take a look at what stories might inspire you:
-  - ```Will fill out eventualy```
+  - ```Will fill out eventually```
 
 ---
 
