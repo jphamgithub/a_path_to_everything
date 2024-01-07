@@ -91,7 +91,7 @@ Time to set goals. With the thought in mind that great advice comes from thousan
 
 It's titled Software Engineer goal setting, but its really just generic goal setting advice. And you know its good because the article mentions using ToDoist. One of the best apps ever made.
 
-## Understanding Tech and Careers in General
+## Understanding Tech and Careers in General <a name="understanding-tech"></a>
 ### Learning Resources
 - Until I find more time to add my own spin. I will link the inspiration for this "a path to everything":
      - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
