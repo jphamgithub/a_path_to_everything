@@ -19,7 +19,7 @@ Now on to reading...
 
 # Table of Contents
 1. [How to Read](#how-to-read)
-2. [A Path to Everything](#a-path-to-everything)
+2. [A Path to Everything](#a_path_to_everything)
 3. [Life Advice for Tech, Fitness, Finance, and More](#life-advice-for-tech-fitness-finance-and-more)
    - 3.1 [Mindset Tips](#mindset-tips)
    - 3.2 [Understanding Tech](#understanding-tech)
