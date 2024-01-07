@@ -26,21 +26,20 @@ Now on to reading...
    - 3.3 [Apps for Efficiency](#apps-for-efficiency)
    - 3.4 [Fitness Advice](#fitness-advice)
    - 3.5 [Finance Tips](#finance-tips)
-4. [Mindset Tips Detail](#mindset-tips-detail)
-5. [Understanding Tech Detail](#understanding-tech-detail)
-6. [Apps for Efficiency Detail](#apps-for-efficiency-detail)
-7. [Fitness Advice Detail](#fitness-advice-detail)
-8. [Finance Tips Detail](#finance-tips-detail)
-9. [Traveling](#traveling)
-10. [Other People Who Have Inspired Me](#other-people-who-have-inspired-me)
-11. [Random](#random)
-12. [TV That Changed My Life](#tv-that-changed-my-life)
-13. [Goal Setting](#goal-setting)
-14. [Specific Career Path Advice](#specific-career-path-advice)
-15. [Building Your Network](#building-your-network)
-16. [Nutrition and Diet](#nutrition-and-diet)
-17. [Workout Routines](#workout-routines)
-18. [Advice from my friends](#advice-from-my-friends)
+4. [Understanding Tech Detail](#understanding-tech-detail)
+5. [Apps for Efficiency Detail](#apps-for-efficiency-detail)
+6. [Fitness Advice Detail](#fitness-advice-detail)
+7. [Finance Tips Detail](#finance-tips-detail)
+8. [Traveling](#traveling)
+9. [Other People Who Have Inspired Me](#other-people-who-have-inspired-me)
+10. [Random](#random)
+11. [TV That Changed My Life](#tv-that-changed-my-life)
+12. [Goal Setting](#goal-setting)
+13. [Specific Career Path Advice](#specific-career-path-advice)
+14. [Building Your Network](#building-your-network)
+15. [Nutrition and Diet](#nutrition-and-diet)
+16. [Workout Routines](#workout-routines)
+17. [Advice from my friends](#advice-from-my-friends)
 
 
 # 2. a_path_to_everything <a name="a_path_to_everything"></a>
@@ -60,7 +59,7 @@ Get you mind right --> Get your money right --> Get fitness in line --> Get Paid
 
 I say again! Get you mind right --> Get your money right --> Get fitness in line --> Get Paid?! Be happy ... And lots more
 
-## 3.1 Mindset Tips
+## 3.1 Mindset Tips <a name="mindset-tips"></a>
 - You can do this. I grew up on welfare, no parents, and a lot of imposter syndrome. Hard work truly does beat natural talent. I've had a very non linear career.
 - I haven't "made it." I am still on the journey, but I am sharing tips below that have taken me from a scarcity mindset to a growth mindset.
 - Opportunity is out there. You need to take baby steps towards your dreams every day. With proper tools and technology these days. It has never been easier to make a daily dent in your goals.
