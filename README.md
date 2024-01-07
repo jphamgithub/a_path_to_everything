@@ -22,10 +22,11 @@ Now on to reading...
 2. [A Path to Everything](#a_path_to_everything)
 3. [Life Advice for Tech, Fitness, Finance, and More](#life-advice)
    - 3.1 [Mindset Tips](#mindset-tips)
-   - 3.2 [Understanding Tech](#understanding-tech)
-   - 3.3 [Apps for Efficiency](#apps-for-efficiency)
-   - 3.4 [Fitness Advice](#fitness-advice)
-   - 3.5 [Finance Tips](#finance-tips)
+   - 3.2 [Goal Setting](#goal-setting)
+   - 3.3 [Understanding Tech](#understanding-tech)
+   - 3.4 [Apps for Efficiency](#apps-for-efficiency)
+   - 3.5 [Fitness Advice](#fitness-advice)
+   - 3.6 [Finance Tips](#finance-tips)
 4. [Understanding Tech Detail](#understanding-tech-detail)
 5. [Apps for Efficiency Detail](#apps-for-efficiency-detail)
 6. [Fitness Advice Detail](#fitness-advice-detail)
@@ -78,11 +79,11 @@ You don't know what career you want, but you know 80% of jobs involve computers.
 
 You don't know where you want to live, but you know it's not where you are. Go visit a place, any place. Learn and experience more. I used to be deadly afraid of a 20 minute drive down the road. Not actually afraid of driving, but how inefficient it might be to go to X place when I could stick with my old routine that got X thing done faster. Try something new. It could lead to an overall better life.
 
-## Mindset Tips Rewind
+## 3.1A Mindset Tips Rewind 
 
 I intentionally want you to go read mindset again. You're gonna question yourself. Stop. Just stop. It is such a waste of time.
 
-## Goal Setting
+## 3.2 Goal Setting <a name="goal-setting"></a>
 
 OK you have your mind right? You have gotten rid of imposter syndrome? Great.
 
@@ -90,7 +91,7 @@ Time to set goals. With the thought in mind that great advice comes from thousan
 
 It's titled Software Engineer goal setting, but its really just generic goal setting advice. And you know its good because the article mentions using ToDoist. One of the best apps ever made.
 
-## Understanding Tech and Careers in General <a name="understanding-tech"></a>
+## 3.3 Understanding Tech and Careers in General <a name="understanding-tech"></a>
 ### Learning Resources
 - Until I find more time to add my own spin. I will link the inspiration for this "a path to everything":
      - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
@@ -136,7 +137,7 @@ branch of Army and then pivot to cloud engineering in civilian whilst going back
 - Mentorship Opportunities
  - ```Will fill out eventually```
 
-## Apps for Efficiency
+## 3.4 Apps for Efficiency <a name="apps-for-efficiency"></a> 
 In today's fast-paced world, efficiency is key. Here are some incredible apps that can significantly boost your productivity and time management skills.
 
 ### Speechify
