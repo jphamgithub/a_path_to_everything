@@ -107,14 +107,17 @@ branch of Army and then pivot to cloud engineering in civilian whilst going back
 - So you're looking at a lawyer, doctor, big tech guy... thinking man they got it made. Well, go take baby steps and make what you want happen. Stop thinking everyone did it overnight. Don't sit unsatisfied for decades wondering "what if", get on the road, bumpy, hilly, but forward.
 #### Career Paths I have something to say about
 ##### Data Science
-Thoughts
+- Data Science is a rapidly evolving field that combines statistical analysis, machine learning, and data visualization to extract insights from data. It's a field that requires a strong foundation in mathematics and programming, but also creativity and business acumen.
+- It's also a field that is wildly different at different companies. Some companies call you a data scientist while some might call you a business intelligence engineer. The role and work you do varies greatly
+- More to come...
 
-Some youtube videos that I like
 ##### Data Analyst
-- Thoughts
+- More to come...
 
-Some youtube videos that I like
-      
+##### Some youtube videos that I like related to data science/data analyst
+  - https://www.youtube.com/@TinaHuang1
+  - https://www.youtube.com/@LukeBarousse      
+
 ### Building Your Network 
 - Social Media Platforms
  - ```Will fill out eventually```
