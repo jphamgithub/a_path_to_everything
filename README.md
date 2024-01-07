@@ -1,7 +1,11 @@
 # How to read
 I know you can read. You're here, but I've been at the top of long blocks of text before. I never thought I'd write one.
 
-Change your perspective. Reading is hard, I get it. Firstly, stop. Go get Speechify and have it read this to you. On 2X or even 3X speed.
+Change your perspective. Reading is hard, I get it. (I put this section above the Table of Contents because I knew you'd need this slap in the face to keep reading and I'd lose you if I didn't catch you here.)
+
+So tips to not fail...
+
+Firstly, stop. Go get Speechify and have it read this to you. On 2X or even 3X speed.
 
 But really, I have been there. People write massive posts and sometimes these things get so long they get called books. Reading is hard, but not reading is going to be a lot more pain in the long term. The alternative is the writer just waits around and repeats themselves to hundreds of people.
 
@@ -12,17 +16,6 @@ So please be a reader. You do not have to read this. I wrote this just to dump m
 "Smart people learn from their mistakes. Geniuses learn from other's mistakes. Reading is the most efficient portal to genius." -Possibly me/ but maybe someone else! I don't know who said it first!
 
 Now on to reading...
-
-# a_path_to_everything
-The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
-
-# Life Advice for Tech, Fitness, Finance, and more.
-
-Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
-
-The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. So be balanced and do it all. One baby step at a time.
-
-But again, combine this with 999 other people's advice and sprinkle in your own life experience. Fork this. Make a merge request. Add more!
 
 # Table of Contents
 1. [How to Read](#how-to-read)
@@ -48,6 +41,18 @@ But again, combine this with 999 other people's advice and sprinkle in your own 
 16. [Nutrition and Diet](#nutrition-and-diet)
 17. [Workout Routines](#workout-routines)
 18. [Advice from my friends](#advice-from-my-friends)
+
+
+# a_path_to_everything
+The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
+
+# Life Advice for Tech, Fitness, Finance, and more.
+
+Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
+
+The worst thing in life is having no money, no friends, no family, and no purpose. It also kind of sucks to have just one of those things. So be balanced and do it all. One baby step at a time.
+
+But again, combine this with 999 other people's advice and sprinkle in your own life experience. Fork this. Make a merge request. Add more!
 
 OK you're about to really dive in:
 
