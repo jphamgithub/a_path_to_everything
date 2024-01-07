@@ -15,7 +15,7 @@ So please be a reader. You do not have to read this. I wrote this just to dump m
 
 "Smart people learn from their mistakes. Geniuses learn from other's mistakes. Reading is the most efficient portal to genius." -Possibly me/ but maybe someone else! I don't know who said it first!
 
-Now on to reading...
+Now on to reading... 
 
 # Table of Contents
 1. [How to Read](#how-to-read)
