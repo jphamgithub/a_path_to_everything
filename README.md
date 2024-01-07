@@ -68,11 +68,19 @@ You don't know what career you want, but you know 80% of jobs involve computers.
 
 You don't know where you want to live, but you know it's not where you are. Go visit a place, any place. Learn and experience more. I used to be deadly afraid of a 20 minute drive down the road. Not actually afraid of driving, but how inefficient it might be to go to X place when I could stick with my old routine that got X thing done faster. Try something new. It could lead to an overall better life.
 
-## Mindset Tips
+## Mindset Tips Rewind
 
 I intentionally want you to go read mindset again. You're gonna question yourself. Stop. Just stop. It is such a waste of time.
 
-## Understanding Tech
+## Goal Setting
+
+OK you have your mind right? You have gotten rid of imposter syndrome? Great.
+
+Time to set goals. With the thought in mind that great advice comes from thousands of sources check out this article on goal setting: https://careercutler.substack.com/p/2024-guide-to-goals-for-software?utm_source=substack&utm_medium=email 
+
+It's titled Software Engineer goal setting, but its really just generic goal setting advice. And you know its good because the article mentions using ToDoist. One of the best apps ever made.
+
+## Understanding Tech and Careers in General
 ### Learning Resources
 - Until I find more time to add my own spin. I will link the inspiration for this "a path to everything":
      - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
@@ -90,6 +98,24 @@ I intentionally want you to go read mindset again. You're gonna question yoursel
 - Communities and Forums
   - ```Will fill out eventually```
 
+### Specific Career Path Advice
+  #### Careers are not linear. 
+    - One of the biggest misconceptions in career planning is the belief in a linear path. Many envision a straightforward journey: start from an entry-level position, gradually climb the ladder, and reach the top. However, the reality is often different and far more dynamic. Career paths are more like a web, with multiple directions and opportunities for growth, 
+      change, and even temporary setbacks. Embracing this non-linear nature allows for a more adaptive and fulfilling career journey. It's important to remain open to new experiences, continue learning, and be willing to take risks.
+    - And when you get to the top don't linearize your career. Some people will start at Dunkin, work in a factory, have a weird consulting job, lick envelopes for a while, get into a data analyst job before it was called that, work in a data science job before it was called that, freak out join the Army in a transportation/logistics unit, pivot to the Cyber 
+      branch of Army and then pivot to cloud engineering in civilian whilst going back to school at 36 for computer science and hope to pivot to software engineering. Life is bumpy. I know, because what I just said is my story. I make great money now, but I did not always.
+    - So you're looking at a lawyer, doctor, big tech guy... thinking man they got it made. Well, go take baby steps and make what you want happen. Stop thinking everyone did it overnight. Don't sit unsatisfied for decades wondering "what if", get on the road, bumpy, hilly, but forward.
+  #### Career Paths I have something to say about
+  ##### Data Science
+      Thoughts
+
+      Some youtube videos that I like
+  ##### Data Analyst
+       
+      Thoughts
+
+      Some youtube videos that I like
+      
 ### Building Your Network 
 - Social Media Platforms
  - ```Will fill out eventually```
@@ -129,7 +155,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
 
 ### GitHub
 - **What it does**: A platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-- **Why it's great**: Essential for coding projects, it allows for effective tracking of changes and collaboration with others.
+- **Why it's great**: Essential for coding projects, it allows for effective tracking of changes and collaboration with others. 
 
 ## Finance Tips
 
@@ -238,15 +264,17 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
       - Safety! People have died on bikes. I will say this. You have the option to get off roads on dangerous parts and be a pedestrian. In 5 years, I never put myself near large vehicles and I avoided narrow roads when conditions were not safe. I never once felt unsafe. 
   - But seriously, the 30-45 minutes on my bike, weaving through city traffic, listening to music, with the low hum of city chatter. It was a thrill. I hope to move back to biking to work. But for now, I am enjoying remote work and walking to the office when I need to go in. I understand it is not possible for most people. I am currently on a one year Army mobilization where I have to drive to work daily. In the past I had a 1.5 hour commute. Both times I just found time to walk at lunch. It takes effort to get outside and get your steps. But I have always found I'm more productive if I can be disciplined to get up and get sunlight. Do what you can, but if you have the chance to bike to work. Take it.
 
-### Traveling
+## Traveling
 
 ```Will fill out eventually```
 
-### Other People Who have inspired me
+## Other People Who have inspired me
 
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
  - This post inspired mine! I thought why not give the code, the money tips, etc. What's a career without proper money management?!
  - I also thought why not use the amazing power of git and versioning to keep building on these tips over time. Hope people fork this/ merge request to it, etc. It is a living document.
+- https://justingarrison.com/
+ - I really like this guy's use of Github for his resume: https://justingarrison.com/blog/2023-10-20-how-i-track-my-resume-with-git/
 
 ## Random
 - Balancing Life Aspects
