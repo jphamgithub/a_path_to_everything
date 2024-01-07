@@ -43,10 +43,10 @@ Now on to reading...
 18. [Advice from my friends](#advice-from-my-friends)
 
 
-# a_path_to_everything <a name="a_path_to_everything"></a>
+# 2. a_path_to_everything <a name="a_path_to_everything"></a>
 The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
 
-# Life Advice for Tech, Fitness, Finance, and more. <a name="life-advice"></a>
+# 3. Life Advice for Tech, Fitness, Finance, and more. <a name="life-advice"></a>
 
 Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
 
@@ -60,7 +60,7 @@ Get you mind right --> Get your money right --> Get fitness in line --> Get Paid
 
 I say again! Get you mind right --> Get your money right --> Get fitness in line --> Get Paid?! Be happy ... And lots more
 
-## Mindset Tips
+## 3.1 Mindset Tips
 - You can do this. I grew up on welfare, no parents, and a lot of imposter syndrome. Hard work truly does beat natural talent. I've had a very non linear career.
 - I haven't "made it." I am still on the journey, but I am sharing tips below that have taken me from a scarcity mindset to a growth mindset.
 - Opportunity is out there. You need to take baby steps towards your dreams every day. With proper tools and technology these days. It has never been easier to make a daily dent in your goals.
