@@ -43,7 +43,7 @@ Now on to reading...
 18. [Advice from my friends](#advice-from-my-friends)
 
 
-# a_path_to_everything
+# a_path_to_everything <a name="a_path_to_everything"></a>
 The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
 
 # Life Advice for Tech, Fitness, Finance, and more.
