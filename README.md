@@ -99,22 +99,21 @@ It's titled Software Engineer goal setting, but its really just generic goal set
   - ```Will fill out eventually```
 
 ### Specific Career Path Advice
-  #### Careers are not linear. 
-    - One of the biggest misconceptions in career planning is the belief in a linear path. Many envision a straightforward journey: start from an entry-level position, gradually climb the ladder, and reach the top. However, the reality is often different and far more dynamic. Career paths are more like a web, with multiple directions and opportunities for growth, 
-      change, and even temporary setbacks. Embracing this non-linear nature allows for a more adaptive and fulfilling career journey. It's important to remain open to new experiences, continue learning, and be willing to take risks.
-    - And when you get to the top don't linearize your career. Some people will start at Dunkin, work in a factory, have a weird consulting job, lick envelopes for a while, get into a data analyst job before it was called that, work in a data science job before it was called that, freak out join the Army in a transportation/logistics unit, pivot to the Cyber 
-      branch of Army and then pivot to cloud engineering in civilian whilst going back to school at 36 for computer science and hope to pivot to software engineering. Life is bumpy. I know, because what I just said is my story. I make great money now, but I did not always.
-    - So you're looking at a lawyer, doctor, big tech guy... thinking man they got it made. Well, go take baby steps and make what you want happen. Stop thinking everyone did it overnight. Don't sit unsatisfied for decades wondering "what if", get on the road, bumpy, hilly, but forward.
-  #### Career Paths I have something to say about
-  ##### Data Science
-      Thoughts
+#### Careers are not linear. 
+- One of the biggest misconceptions in career planning is the belief in a linear path. Many envision a straightforward journey: start from an entry-level position, gradually climb the ladder, and reach the top. However, the reality is often different and far more dynamic. Career paths are more like a web, with multiple directions and opportunities for growth, 
+change, and even temporary setbacks. Embracing this non-linear nature allows for a more adaptive and fulfilling career journey. It's important to remain open to new experiences, continue learning, and be willing to take risks.
+- And when you get to the top don't linearize your career. Some people will start at Dunkin, work in a factory, have a weird consulting job, lick envelopes for a while, get into a data analyst job before it was called that, work in a data science job before it was called that, freak out join the Army in a transportation/logistics unit, pivot to the Cyber 
+branch of Army and then pivot to cloud engineering in civilian whilst going back to school at 36 for computer science and hope to pivot to software engineering. Life is bumpy. I know, because what I just said is my story. I make great money now, but I did not always.
+- So you're looking at a lawyer, doctor, big tech guy... thinking man they got it made. Well, go take baby steps and make what you want happen. Stop thinking everyone did it overnight. Don't sit unsatisfied for decades wondering "what if", get on the road, bumpy, hilly, but forward.
+#### Career Paths I have something to say about
+##### Data Science
+Thoughts
 
-      Some youtube videos that I like
-  ##### Data Analyst
-       
-      Thoughts
+Some youtube videos that I like
+##### Data Analyst
+- Thoughts
 
-      Some youtube videos that I like
+Some youtube videos that I like
       
 ### Building Your Network 
 - Social Media Platforms
