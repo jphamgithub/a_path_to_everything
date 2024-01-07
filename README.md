@@ -1,4 +1,4 @@
-# How to read
+# 1. How to read <a name="how-to-read"></a>
 I know you can read. You're here, but I've been at the top of long blocks of text before. I never thought I'd write one.
 
 Change your perspective. Reading is hard, I get it. (I put this section above the Table of Contents because I knew you'd need this slap in the face to keep reading and I'd lose you if I didn't catch you here.)
