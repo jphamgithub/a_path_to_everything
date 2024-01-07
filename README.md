@@ -20,7 +20,7 @@ Now on to reading...
 # Table of Contents
 1. [How to Read](#how-to-read)
 2. [A Path to Everything](#a_path_to_everything)
-3. [Life Advice for Tech, Fitness, Finance, and More](#life-advice-for-tech-fitness-finance-and-more)
+3. [Life Advice for Tech, Fitness, Finance, and More](#life-advice)
    - 3.1 [Mindset Tips](#mindset-tips)
    - 3.2 [Understanding Tech](#understanding-tech)
    - 3.3 [Apps for Efficiency](#apps-for-efficiency)
@@ -46,7 +46,7 @@ Now on to reading...
 # a_path_to_everything <a name="a_path_to_everything"></a>
 The best advice is advice from 1,000+ people, sprinkled with common sense, and your own experience. Here I have tried to collect the 1,000+ influences in my life that have served me well from finance to tech to mindset.
 
-# Life Advice for Tech, Fitness, Finance, and more.
+# Life Advice for Tech, Fitness, Finance, and more. <a name="life-advice"></a>
 
 Welcome to my repository where I share my insights and advice on breaking into the tech industry, leveraging apps for efficiency, staying fit, and managing finances. 
 
