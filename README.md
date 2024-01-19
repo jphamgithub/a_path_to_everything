@@ -195,6 +195,9 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
    - Buy simple index funds that's it!
    - I'll give a little more color later.
 
+### Mindset on Money 
+- This: https://youtu.be/1-TZqOsVCNM?si=pz_1HWDOGSW0oNGK
+
 ## Fitness Advice
 ### Nutrition and Diet
 - Nutrition is first up. If you don't get to the lifting part, good. I'd rather you digest this info on food if nothing else.
