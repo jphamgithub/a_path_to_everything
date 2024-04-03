@@ -180,6 +180,19 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
       - It seems like a daunting task, but actually saves your hundreds if not years of working time.
       - It allows for things life work hiatuses, i.e. you planned your life and aim to save 20K per year. You can save 40K one year and take an entire year off!
       - ```More details on slowfi, coastfi, etc. later```
+### Investing Order of Operations
+
+- Jake's custom order of operations different from reddit.com/r/personalfinance but same essence
+    - 1. open up EVERY account and do 10 dollars to them AUTOMATED per month to TAXABLE BROKERAGE, 401K (has to be done as % figure it out), ROTH if eligible, Crypto, fundrise, iterate and try out every platform too (fidelity, vanguard, etc. so you can see if interface and nuances of each are slightly better for you)... this will cost you 70 bucks a month for like 7 accounts (again its about HAVING the accounts, HAVING the automation, increase later when you make more) the MOMEMNTUM of having the accounts is HUGE for me and a lot of people I think. Chosing VTI or similar broad based index fund on all platforms for all accounts.
+    - 2. Save 1,000 cash
+    - 3. max out 401K match its free money
+    - 4. build emergency fund in a high yield savings (ally.com) to 3-6 month savings (guiding question on that; how long would it take you to find a new job?) rule of thumb is about 20K for a single person
+    - 5. now that emergency fund is built... work on getting to X% savings goal (30% suggested)
+    - 6. max out 401K if possible
+    - 7. max roth
+    - 8. anything else towards savings goal to taxable brokerage
+    - 9. customizable goal (important to have accessible cash at any age (taxable brokerage) vs all roth and 401K... ) i argue let's say you can afford only 10K per year to save... spread that out over items 6,7,8 evenly (401K, roth, taxable brokerage)
+```
 
 ### Bloggers That Changed My Financial Life
   - I can't possibly write as good of information as the below bloggers who changed my life:
