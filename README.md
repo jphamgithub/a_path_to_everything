@@ -193,7 +193,11 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
     - 8. anything else towards savings goal to taxable brokerage
     - 9. customizable goal (important to have accessible cash at any age (taxable brokerage) vs all roth and 401K... ) i argue let's say you can afford only 10K per year to save... spread that out over items 6,7,8 evenly (401K, roth, taxable brokerage)
 
-
+- Related videos, How to Buy Stocks with Fidelity - Full Example: https://www.youtube.com/watch?v=wMxj6iB92ZA
+  - AGAIN JUST BUY "VTI" it's an ETF.
+  - WHY?
+    - VTI is portable because it's an ETF (Exchange-Traded Fund), meaning you can buy and sell it like a stock on major exchanges regardless of which brokerage account you use. This flexibility allows investors to easily move their investment without having to sell their holdings, offering a convenient way to maintain a consistent investment strategy even if they switch brokers.
+    - Index funds like VTI are often recommended because they offer broad market exposure, low costs, and typically lower risk compared to picking individual stocks. By investing in an index, you're betting on the entire market's performance rather than the success of a single company, aligning with the philosophy that, over time, the market tends to go up, making it a solid choice for long-term investment strategies.
 ### Bloggers That Changed My Financial Life
   - I can't possibly write as good of information as the below bloggers who changed my life:
   - **[JL Collins](https://jlcollinsnh.com/)**: Imagine a financially savvy dad guiding you. His take on index funds simplifies investing. Key read: ["How I Failed My Daughter and a Simple Path to Wealth"](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/).
