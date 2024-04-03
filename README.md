@@ -192,7 +192,7 @@ In today's fast-paced world, efficiency is key. Here are some incredible apps th
     - 7. max roth
     - 8. anything else towards savings goal to taxable brokerage
     - 9. customizable goal (important to have accessible cash at any age (taxable brokerage) vs all roth and 401K... ) i argue let's say you can afford only 10K per year to save... spread that out over items 6,7,8 evenly (401K, roth, taxable brokerage)
-```
+
 
 ### Bloggers That Changed My Financial Life
   - I can't possibly write as good of information as the below bloggers who changed my life:
