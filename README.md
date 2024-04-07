@@ -132,8 +132,15 @@ branch of Army and then pivot to cloud engineering in civilian whilst going back
 ### Building Your Network 
 - Social Media Platforms
  - ```Will fill out eventually```
-- Networking Events
- - ```Will fill out eventually```
+- Networking Events/ Hackathons/ CTF's
+ - Check out these remotely or in person. I will say this now **Yes you are ready to go/attend** In fact, going later or mid-career is less useful. Early on, go be confused, be embarassed, learn, ask questions, and be aware of what you don't know. Then come back with a notebook full of terms to look up and learn.
+   
+   - https://dev.events/ Dev.events is a curated platform showcasing a comprehensive list of tech conferences worldwide, focusing on various themes like AI, cybersecurity, and cloud computing. It serves as a valuable resource for professionals seeking to expand their knowledge and network. If you write to them and let them know you're a student, they'll often give you a free ticket to attend.
+
+   - https://devpost.com/ Devpost is a vibrant community platform where creators showcase their software projects and participate in hackathons. It encourages innovation and collaboration, providing tools and opportunities for developers to build, share, and get feedback on their creations.
+
+   - https://ctftime.org/ CTFtime.org is a central hub for Capture The Flag competitions and cybersecurity challenges. It offers a global ranking of CTF teams, a calendar of upcoming events, and resources for both beginners and experienced security enthusiasts to engage in cybersecurity contests.
+
 - Mentorship Opportunities
  - ```Will fill out eventually```
 
